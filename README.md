@@ -32,10 +32,10 @@ My name is Sergey and I am a backend developer in Go.
 <img src="icons/js.svg" height=40>&nbsp;
 <img src="icons/figma.svg" height=40>&nbsp;
 <img src="icons/bootstrap.svg" height=40>&nbsp;
-<img src="icons/scss.svg" height=40>
-<img src="icons/rust.svg" height=40>
+<img src="icons/scss.svg" height=40>&nbsp;
+<img src="icons/rust.svg" height=40>&nbsp;
 <img src="icons/linux.svg" height=40>&nbsp;
-<img src="icons/gimp.svg" height=40>&nbsp;
+<img src="icons/gimp.svg" height=40>
 
 
 ## 🎨Hobbies
