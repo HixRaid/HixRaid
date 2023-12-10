@@ -26,6 +26,9 @@ _An endless desire to develop and strive for ideals is the key to success in the
 <img src="icons/github.svg" height=55>&nbsp;
 <img src="icons/bash.svg" height=55>
 
+<details>
+  <summary>Other...</summary>
+
 ### Frontend
 
 <img src="icons/js.svg" height=45>&nbsp;
@@ -50,6 +53,8 @@ _An endless desire to develop and strive for ideals is the key to success in the
 <img src="icons/linux.svg" height=45>
 
 > `Visual Studio Code` as the main IDE
+
+</details>
 
 ## 🎨 Hobbies
 
